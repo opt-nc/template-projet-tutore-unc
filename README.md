@@ -10,6 +10,8 @@ Selon [leur définition](https://iut.unc.nc/espace-entreprises/projets-tutores/)
 
 > "[...] répondent à la commande d’une entreprise sur laquelle travaillent les étudiantes et étudiants en groupe de 3 à 5, tout au long de l’année. Contrairement au stage, les étudiantes et étudiants ne sont pas présents en entreprise, mais s’y rendent pour des réunions."
 
+> "Quelques exemples : optimisation de coûts d’importation, création d’un service de vente à domicile, réalisation de vidéos 360°, création d’un chatbot, application web et mobile, mains myoélectriques en 3D, etc."
+
 ## ➡️  Processus
 
 1. L'UNC **lance un appel** à projets auprès des entreprises
