@@ -40,8 +40,8 @@ Ci-dessous l'elevator pitch :
 
 Ci-dessous les éléments qui permettent de définir que l'objectif aura été atteint:
 
-- ✔️Objectif 1
-- ✔️Objectif 2
+- ✔️ Objectif 1
+- ✔️ Objectif 2
 
 
 # 🏆 Projets tutorés remarquables
