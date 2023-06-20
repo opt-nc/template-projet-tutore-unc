@@ -29,6 +29,10 @@ Le tuteur produire l'évaluation finale dès lors que les livrables ci-dessous a
 - 📘 Rapport au formal pdf (**une semaine avant souteance pour review**)
 - 🎦 Démo video au format `mp4` (`20'` max) livrée par les étudiants durant laquelle le produit est démontré, et pour un public général (que l'OPT utilisera sur [`dev.to/optnc`](https://dev.to/optnc))
 
+**☝️ L'évaluation du projet sera effectuée dès lors que tous ces élements auront été fournis en temps et en heure,
+au plus tard une semaaine avant la soutenance. Faute de quoi l'évaluation sera livrée une semaine après obtention
+des livrables.**
+
 
 ## 🎙️ Pitch
 
