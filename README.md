@@ -12,7 +12,7 @@ Selon [leur définition](https://iut.unc.nc/espace-entreprises/projets-tutores/)
 
 ## ➡️  Processus
 
-1. L'UNC **lance un appel* à projets auprès des entreprises
+1. L'UNC **lance un appel** à projets auprès des entreprises
 2. Les tuteurs des **entreprises fournissent** une liste de sujets
 3. Les **étudiants choisissent** un sujet
 4. Les **développements** sont opérés
