@@ -57,7 +57,7 @@ Ci-dessous les éléments qui permettent de définir que l'objectif aura été a
 Ci-dessous une sélection de projets tutorés remarquables:
 
 - [`domaine-nc-javafx`](https://github.com/adriens/domaine-nc-javafx) (_"Application JavaFX pour consulter les données de DOMAINE.nc "_)
-- [🧑‍🎓 Follow package delivery in New-Caledonia w/ Discord 🤖](https://dev.to/optnc/follow-delivery-in-new-caledonia-with-rapidapi-4bh9)https://dev.to/optnc/follow-delivery-in-new-caledonia-with-rapidapi-4bh9
+- [🧑‍🎓 Follow package delivery in New-Caledonia w/ Discord 🤖](https://dev.to/optnc/follow-delivery-in-new-caledonia-with-rapidapi-4bh9)
 - [🤖 Un assistant en réalité augmentée pour suivre la livraison de ses colis](https://youtu.be/ddqJ-ZAlk9U)
 - [🙌 API marketplace & Open Innovation w/ UNC students 🎓](https://dev.to/optnc/api-marketplace-open-innovation-w-unc-students-50fc)
 
