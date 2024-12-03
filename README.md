@@ -64,6 +64,7 @@ Ci-dessous une sélection de projets tutorés remarquables:
 - [🧑‍🎓 Follow package delivery in New-Caledonia w/ Discord 🤖](https://dev.to/optnc/follow-delivery-in-new-caledonia-with-rapidapi-4bh9)
 - [🤖 Un assistant en réalité augmentée pour suivre la livraison de ses colis](https://youtu.be/ddqJ-ZAlk9U)
 - [🙌 API marketplace & Open Innovation w/ UNC students 🎓](https://dev.to/optnc/api-marketplace-open-innovation-w-unc-students-50fc)
+- [📊 Benefits of a historic wait time API: apigee developer portal & Streamlit](https://dev.to/adriens/benefits-of-a-historic-wait-time-api-apigee-developer-portal-streamlit-2d9a)
 
 👉... à vous de jouer pour y inscrire le votre 💪.
 
